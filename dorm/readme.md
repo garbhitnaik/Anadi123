@@ -1,4 +1,4 @@
 # dorm 
 
-blablabla....
+dorm was built after [kichen](../kitchen/kitchen.md)
 
