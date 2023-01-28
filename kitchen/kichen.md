@@ -14,4 +14,4 @@
 
 ## image
 
-![my beautiful image](1)
+![my beautiful image](1.jpg)
