@@ -1,3 +1,4 @@
 # Fun with Anadi
 
-This is a trial repo
+This is a trial repository
+
